@@ -8,8 +8,8 @@
 
 <br>
 
-<a href="https://github.com/seniorL-coder">
-  <img src="https://img.shields.io/badge/GitHub-seniorL--coder-181717?style=for-the-badge&logo=github" />
+<a href="https://github.com/1ljt">
+  <img src="https://img.shields.io/badge/GitHub-1ljt-181717?style=for-the-badge&logo=github" />
 </a>
 
 </div>
